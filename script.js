@@ -1,4 +1,3 @@
-// Change these messages to your own love letters!
 const letters = {
   letter: {
     title: "To my favorite person,",
